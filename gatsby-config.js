@@ -1,15 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `The Think`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jinsu Son`,
+      summary: `The developer who interests brain health and think`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `Writing my think and the project that I want to realize`,
+    siteUrl: `https://rhange.gatsbyjs.io/`,
+    social: {},
   },
   plugins: [
     `gatsby-plugin-image`,
